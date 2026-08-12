@@ -1,0 +1,15 @@
+{
+  "name": "lopal",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Eu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
